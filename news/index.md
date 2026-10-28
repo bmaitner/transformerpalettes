@@ -1,5 +1,7 @@
 # Changelog
 
+## transformerpalettes (development version)
+
 ## transformerpalettes 0.4.0
 
 CRAN release: 2026-10-27

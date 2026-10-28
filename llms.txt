@@ -34,6 +34,15 @@ lists what is queued.
 
 ## Installation
 
+From CRAN:
+
+``` r
+
+install.packages("transformerpalettes")
+```
+
+Or the development version from GitHub:
+
 ``` r
 
 # install.packages("pak")
