@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/bmaitner/transformerpalettes/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bmaitner/transformerpalettes/actions/workflows/R-CMD-check.yaml)
+[![CRAN status](https://www.r-pkg.org/badges/version/transformerpalettes)](https://CRAN.R-project.org/package=transformerpalettes)
 <!-- badges: end -->
 
 Color palettes for R and ggplot2 drawn from the Transformers franchise,
@@ -32,6 +33,14 @@ a form to [request a character](https://github.com/bmaitner/transformerpalettes/
 who is not covered yet. [`WISHLIST.md`](https://github.com/bmaitner/transformerpalettes/blob/main/WISHLIST.md) lists what is queued.
 
 ## Installation
+
+From CRAN:
+
+```r
+install.packages("transformerpalettes")
+```
+
+Or the development version from GitHub:
 
 ```r
 # install.packages("pak")

@@ -1,3 +1,5 @@
+# transformerpalettes (development version)
+
 # transformerpalettes 0.4.0
 
 * New `tf_credit()` writes a figure-caption or acknowledgments sentence
