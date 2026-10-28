@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/bmaitner/transformerpalettes/blob/main/inst/CITATION)
+[`inst/CITATION`](https://github.com/bmaitner/transformerpalettes/blob/v0.4.0/inst/CITATION)
 
 Maitner, B. (2026). transformerpalettes: Color Palettes Inspired by
 Generation 1 Transformers. R package version 0.4.0.

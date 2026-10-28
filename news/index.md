@@ -2,6 +2,8 @@
 
 ## transformerpalettes 0.4.0
 
+CRAN release: 2026-10-27
+
 - New
   [`tf_credit()`](https://bmaitner.github.io/transformerpalettes/reference/tf_credit.md)
   writes a figure-caption or acknowledgments sentence naming the
